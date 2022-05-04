@@ -36,9 +36,6 @@ In-depth study of Probability and Statistics. Contains concise review of require
 Contains measure-theoretic perspective when introducing Probability.   
 Contains videos (ie. not all topics), Python code examples, good graphics.  
 
-#### Videos
-* []()
-
 ---
 
 ### Section 2A - Working with Data with Pandas etc.
@@ -63,6 +60,17 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 - Machine Learning Mastery
 - Elements of Statistical Machine Learning
 - Introduction to Statistical Learning
+
+
+---
+
+### Git
+
+#### Online Resources
+* [An Introduction to Git and Github](https://www.youtube.com/watch?v=MJUJ4wbFm_A) by Brian Yu  
+This introductory video by Brian provides an overview to Git and how it's used.
+
+
 
 ### Todo
 * git
