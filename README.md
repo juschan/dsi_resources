@@ -36,12 +36,29 @@ In-depth study of Probability and Statistics. Contains concise review of require
 Contains measure-theoretic perspective when introducing Probability.   
 Contains videos (ie. not all topics), Python code examples, good graphics.  
 
+
+#### Videos
+* Statquest
+Great short videos explaining complex ideas.
+  * [Main Ideas behind Probability Distributions](https://www.youtube.com/watch?v=oI3hZJqXJuc)
+  * [Binomial Distribution and Test](https://www.youtube.com/watch?v=J8jNoF-K8E8)
+  * [Sampling from a Distribution](https://www.youtube.com/watch?v=XLCWeSVzHUU)
+  * [The Central Limit Theorem](https://www.youtube.com/watch?v=YAlJCEDH2uY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=20)
+  * [Bootstrapping](https://www.youtube.com/watch?v=Xz0x-8-cgaQ&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=24)
+  * [Confidence Intervals](https://www.youtube.com/watch?v=TqOeMYtOc1w&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=23)
+
 ---
 
 ### Section 2A - Working with Data with Pandas etc.
 
 
-Visualization/Interactive tools include Matplotlib, Seaborn, [Plotly](https://plotly.com/), [nbinteract](https://www.nbinteract.com/), [Streamlit](https://streamlit.io/) etc.
+Visualization/Interactive tools include 
+[Matplotlib](https://matplotlib.org/), 
+[Seaborn](https://seaborn.pydata.org/), 
+[ipywidgets](https://ipywidgets.readthedocs.io/en/stable/), 
+[Plotly](https://plotly.com/), 
+[nbinteract](https://www.nbinteract.com/), 
+[Streamlit](https://streamlit.io/) etc.
 
 #### Online Resources
 * [Chris Albon](https://chrisalbon.com/)  
@@ -56,10 +73,19 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 ---
 
 ### Data Science Resources
+
+#### Book
+* [An Introduction to Statistical Learning](https://www.statlearning.com/)
+Free. Great introduction to DS. Examples in R. Now in it's 2nd edition.
+
+* [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
+Free to download. 2nd edition. Examples in R. More advanced book.
+
+
 - Chris Albon
 - Machine Learning Mastery
-- Elements of Statistical Machine Learning
-- Introduction to Statistical Learning
+- 
+
 
 
 ---
@@ -73,6 +99,6 @@ This introductory video by Brian provides an overview to Git and how it's used.
 
 
 ### Todo
-* git
+
 * jupyter notebook
 * Data Science - Read Intro to Probability for DS Chap 6, deriving Hoeffding's Inequality. Then continue with 'Learning from Data', with slight changes to the formula to relate to generalization error.
