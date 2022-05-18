@@ -47,6 +47,13 @@ Great short videos explaining complex ideas.
   * [Bootstrapping](https://www.youtube.com/watch?v=Xz0x-8-cgaQ&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=24)
   * [Confidence Intervals](https://www.youtube.com/watch?v=TqOeMYtOc1w&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=23)
 
+
+#### Additional Resources
+* Confidence Interval - [Margin of Errors](https://web.stat.tamu.edu/~suhasini/teaching301/stat301MoE.pdf), [The t-distribution](https://web.stat.tamu.edu/~suhasini/teaching301/stat301CI_t-dist.pdf)  
+From Texas A&M University. Some useful notes
+* [Interpreting Confidence Interval](https://rpsychologist.com/d3/ci/)  
+Insightful visualization
+
 ---
 
 ### Section 2A - Working with Data with Pandas etc.
