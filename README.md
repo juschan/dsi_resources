@@ -46,6 +46,7 @@ Great short videos explaining complex ideas.
   * [The Central Limit Theorem](https://www.youtube.com/watch?v=YAlJCEDH2uY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=20)
   * [Bootstrapping](https://www.youtube.com/watch?v=Xz0x-8-cgaQ&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=24)
   * [Confidence Intervals](https://www.youtube.com/watch?v=TqOeMYtOc1w&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=23)
+  * [Hypothesis Testing with SciPy - Hillary Green-Lerman](https://www.youtube.com/watch?v=dPXBN8ms-cU) - Great hands-on tutorial on the main hypothesis tests!
 
 
 #### Additional Resources
@@ -76,6 +77,22 @@ Matplotlib website contains examples, tutorials, cheat sheets, documentation and
 
 * [seaborn](https://seaborn.pydata.org/)  
 Seaborn is another popular visualization tool. Site contains examples, Tutorial and references.
+
+---
+
+### Section 3 - Linear Regression
+
+
+#### Online Resources for understanding Variance, Covariance and Correlation
+* []()
+
+### Online Resources to understand OLS and R2
+* [OLS Regression](https://setosa.io/ev/ordinary-least-squares-regression/) - Visual and Interactive
+* [Mean Square Error & R2 Score Clearly Explained](https://www.bmc.com/blogs/mean-squared-error-r2-and-variance-in-regression-analysis/)
+* [Linear Regression Viz - Residual Sum of Squares](https://www.geogebra.org/m/UxJQorBl)
+* [The Game of Increasing R-squared in a Regression Model](https://www.analyticsvidhya.com/blog/2021/05/the-game-of-increasing-r-squared-in-a-regression-model/)
+
+### 
 
 ---
 
