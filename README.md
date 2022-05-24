@@ -105,6 +105,13 @@ Free. Great introduction to DS. Examples in R. Now in it's 2nd edition.
 * [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 Free to download. 2nd edition. Examples in R. More advanced book.
 
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html)
+* Free
+
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf)
+
+* [Deep Learning Book](https://www.deeplearningbook.org/)
+Website has exercises and lecture notes. 
 
 - Chris Albon
 - Machine Learning Mastery
