@@ -92,7 +92,12 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Linear Regression Viz - Residual Sum of Squares](https://www.geogebra.org/m/UxJQorBl)
 * [The Game of Increasing R-squared in a Regression Model](https://www.analyticsvidhya.com/blog/2021/05/the-game-of-increasing-r-squared-in-a-regression-model/)
 
-### 
+### Online Resources to understand Bias-Variance Tradeoff
+* [Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) - by Statquest
+* [Bias Variance Trade-off Easily Explained | Machine Learning Basics](https://www.youtube.com/watch?v=1JWpXHgqj54) - by Professor Ryan. I like the detail explanation. I just felt that instead of Sum of Squared Errors, he used Mean Squared Errors when comparing bias.
+
+### Online Resources to understand Cross-Validation
+* [Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) - by Statquest
 
 ---
 
