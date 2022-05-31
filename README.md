@@ -95,9 +95,15 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 ### Online Resources to understand Bias-Variance Tradeoff
 * [Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) - by Statquest
 * [Bias Variance Trade-off Easily Explained | Machine Learning Basics](https://www.youtube.com/watch?v=1JWpXHgqj54) - by Professor Ryan. I like the detail explanation. I just felt that instead of Sum of Squared Errors, he used Mean Squared Errors when comparing bias.
+* [How to Calculate the Bias-Variance Trade-off with Python](https://machinelearningmastery.com/calculate-the-bias-variance-trade-off/) - An example that uses the mlxtend package to breakdown the MSE into bias and variance components.
+
 
 ### Online Resources to understand Cross-Validation
 * [Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) - by Statquest
+
+### Online Resources to understand Regularisation
+* [Regularization - Ridge](https://www.youtube.com/watch?v=Q81RR3yKn30), [Regularization - Lasso](https://www.youtube.com/watch?v=NGf0voTMlcs), [Regularization - Elastic Net](https://www.youtube.com/watch?v=1dKRdX9bfIo) - Statquest has a series to explain the various regularization techniques used. Watch in that order.
+
 
 ---
 
