@@ -97,6 +97,7 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 
 #### Online Resources to understand Cross-Validation
+* [Scikit-Learn - Cross Validation](https://scikit-learn.org/stable/modules/cross_validation.html) - A useful resources to understand how cross-validation works in scikit-learn, and how the cross_val_score function is used, and how it differs from cross_val_predict.
 * [Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) - by Statquest
 
 #### Online Resources to understand Regularisation
@@ -105,6 +106,10 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 ### Online Resources to understand statsmodel summary
 * [Explaining Statsmodel Summary](https://towardsdatascience.com/simple-explanation-of-statsmodel-linear-regression-model-summary-35961919868b) - a more detailed explanation with recommended range of values.
 * [Interpreting Linear Regression through Statsmodel Summary](https://medium.com/swlh/interpreting-linear-regression-through-statsmodels-summary-4796d359035a) - quick overview
+
+### GridSearchCV multiple models, multiple parameters
+* [Tune multiple models with CV all at once](https://towardsdatascience.com/how-to-tune-multiple-ml-models-with-gridsearchcv-at-once-9fcebfcc6c23)
+
 
 ---
 
