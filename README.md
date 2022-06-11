@@ -83,26 +83,37 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 ### Section 3 - Linear Regression
 
 
-#### Online Resources for understanding Variance, Covariance and Correlation
-* []()
 
-### Online Resources to understand OLS and R2
+#### Online Resources to understand OLS and R2
 * [OLS Regression](https://setosa.io/ev/ordinary-least-squares-regression/) - Visual and Interactive
 * [Mean Square Error & R2 Score Clearly Explained](https://www.bmc.com/blogs/mean-squared-error-r2-and-variance-in-regression-analysis/)
 * [Linear Regression Viz - Residual Sum of Squares](https://www.geogebra.org/m/UxJQorBl)
 * [The Game of Increasing R-squared in a Regression Model](https://www.analyticsvidhya.com/blog/2021/05/the-game-of-increasing-r-squared-in-a-regression-model/)
 
-### Online Resources to understand Bias-Variance Tradeoff
+#### Online Resources to understand Bias-Variance Tradeoff
 * [Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) - by Statquest
 * [Bias Variance Trade-off Easily Explained | Machine Learning Basics](https://www.youtube.com/watch?v=1JWpXHgqj54) - by Professor Ryan. I like the detail explanation. I just felt that instead of Sum of Squared Errors, he used Mean Squared Errors when comparing bias.
 * [How to Calculate the Bias-Variance Trade-off with Python](https://machinelearningmastery.com/calculate-the-bias-variance-trade-off/) - An example that uses the mlxtend package to breakdown the MSE into bias and variance components.
 
 
-### Online Resources to understand Cross-Validation
+#### Online Resources to understand Cross-Validation
 * [Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) - by Statquest
 
-### Online Resources to understand Regularisation
+#### Online Resources to understand Regularisation
 * [Regularization - Ridge](https://www.youtube.com/watch?v=Q81RR3yKn30), [Regularization - Lasso](https://www.youtube.com/watch?v=NGf0voTMlcs), [Regularization - Elastic Net](https://www.youtube.com/watch?v=1dKRdX9bfIo) - Statquest has a series to explain the various regularization techniques used. Watch in that order.
+
+### Online Resources to understand statsmodel summary
+* [Explaining Statsmodel Summary](https://towardsdatascience.com/simple-explanation-of-statsmodel-linear-regression-model-summary-35961919868b) - a more detailed explanation with recommended range of values.
+* [Interpreting Linear Regression through Statsmodel Summary](https://medium.com/swlh/interpreting-linear-regression-through-statsmodels-summary-4796d359035a) - quick overview
+
+---
+
+### SQL
+
+#### Online Resources for SQL
+* [SQLBolt](https://sqlbolt.com/) - Simple, interactive exercises
+* [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) - Interactive exercises that contains intermediate queries for Windowing, and COVID example
+* [W3 Schools](https://www.w3schools.com/sql/default.asp) - Good reference and code examples.
 
 
 ---
@@ -116,8 +127,7 @@ Free. Great introduction to DS. Examples in R. Now in it's 2nd edition.
 * [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 Free to download. 2nd edition. Examples in R. More advanced book.
 
-* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html)
-* Free
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html) - Free
 
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf)
 
