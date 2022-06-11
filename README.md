@@ -89,11 +89,18 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Mean Square Error & R2 Score Clearly Explained](https://www.bmc.com/blogs/mean-squared-error-r2-and-variance-in-regression-analysis/)
 * [Linear Regression Viz - Residual Sum of Squares](https://www.geogebra.org/m/UxJQorBl)
 * [The Game of Increasing R-squared in a Regression Model](https://www.analyticsvidhya.com/blog/2021/05/the-game-of-increasing-r-squared-in-a-regression-model/)
+* [Should we calculate R2 for training and test data?](https://stats.stackexchange.com/questions/348330/should-r2-be-calculated-on-training-data-or-test-data) - good discussion. Calculate R2 for training data to see how well the model is fit. Revert to MSE or RMSE when comparing training and test data for generalisation.
+
 
 #### Online Resources to understand Bias-Variance Tradeoff
 * [Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) - by Statquest
 * [Bias Variance Trade-off Easily Explained | Machine Learning Basics](https://www.youtube.com/watch?v=1JWpXHgqj54) - by Professor Ryan. I like the detail explanation. I just felt that instead of Sum of Squared Errors, he used Mean Squared Errors when comparing bias.
 * [How to Calculate the Bias-Variance Trade-off with Python](https://machinelearningmastery.com/calculate-the-bias-variance-trade-off/) - An example that uses the mlxtend package to breakdown the MSE into bias and variance components.
+
+#### Multicollinearity
+* [Detect and deal with Multicollinearity](https://towardsdatascience.com/how-to-detect-and-deal-with-multicollinearity-9e02b18695f1) - good explanation
+* [Detect Multicollinearity using VIF](https://www.geeksforgeeks.org/detecting-multicollinearity-with-vif-python/) - simple example
+* [Permutation Importance with Multicollinearity](https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html) - considerations for feature importance
 
 
 #### Online Resources to understand Cross-Validation
@@ -111,6 +118,8 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Tune multiple models with CV all at once](https://towardsdatascience.com/how-to-tune-multiple-ml-models-with-gridsearchcv-at-once-9fcebfcc6c23)
 
 
+
+
 ---
 
 ### SQL
@@ -119,6 +128,8 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [SQLBolt](https://sqlbolt.com/) - Simple, interactive exercises
 * [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) - Interactive exercises that contains intermediate queries for Windowing, and COVID example
 * [W3 Schools](https://www.w3schools.com/sql/default.asp) - Good reference and code examples.
+* [SQL Views](https://www.w3schools.com/sql/sql_view.asp) - Always updated.
+* [SQL Server - Materialized Views](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-materialized-view-as-select-transact-sql?view=azure-sqldw-latest) - Microsoft SQL Server specific Materializeed Views
 
 
 ---
