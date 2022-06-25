@@ -118,8 +118,6 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Tune multiple models with CV all at once](https://towardsdatascience.com/how-to-tune-multiple-ml-models-with-gridsearchcv-at-once-9fcebfcc6c23)
 
 
-
-
 ---
 
 ### SQL
@@ -131,6 +129,33 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [SQL Views](https://www.w3schools.com/sql/sql_view.asp) - Always updated.
 * [SQL Server - Materialized Views](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-materialized-view-as-select-transact-sql?view=azure-sqldw-latest) - Microsoft SQL Server specific Materializeed Views
 
+---
+
+### Classification
+
+### Online Resources for Logistic Regression
+* [Loss Function for Logistic Regression](https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11) - detailed and code exasmples.
+
+
+#### Online Resources for Multiclass problems
+* [Machine Learning Mastery - 1-vs-rest, 1-vs-1 Multiclass](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/) - good explanation and code examples for multiclass problem
+* [LinearSVC Multiclass example](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
+* [Scikit-Learn LinearSVC document that shows 1-vs-rest implementation for multiclass problems](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
+
+#### Online Resources for Imbalance Data
+* [Intro to imbalanced data classification](https://machinelearningmastery.com/what-is-imbalanced-classification/)
+* [SMOTE for imbalanced data](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)
+
+
+---
+
+### Web Dev Resources
+
+#### Online Resources for Web Dev
+* [W3School - HTML tutorial](https://www.w3schools.com/html/) - HTML, CSS and other examples
+* [W3C - CSS Properties](https://www.w3.org/wiki/CSS/Properties/color/keywords) - W3C standards
+* [Codepen](https://codepen.io/) - Live coding environment.
+* [Microsoft - Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Project-based approached to web development.
 
 ---
 
