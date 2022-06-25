@@ -131,6 +131,16 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 ---
 
+### Feature Engineering
+
+#### Online Resources for Feature Selection
+
+*[Recursive FEature Elimination](https://machinelearningmastery.com/rfe-feature-selection-in-python/) - An example
+*[SelectKBest](https://www.datatechnotes.com/2021/02/seleckbest-feature-selection-example-in-python.html)
+
+
+---
+
 ### Classification
 
 ### Online Resources for Logistic Regression
