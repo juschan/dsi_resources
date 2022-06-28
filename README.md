@@ -169,6 +169,22 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 ---
 
+### Regex
+
+* [Regex 101](https://regex101.com/) - Interactive website to practice Regex
+* [Regex Crossword](https://regexcrossword.com/) - Learn regex using crosswords
+* [Regexone](https://regexone.com/) - Tutorial-like step-by-step lesson for beginners
+* [Regex Golf](https://alf.nu/RegexGolf?world=regex&level=r00) - For practice
+
+---
+
+### NLP
+
+* [Embedding Projector](https://projector.tensorflow.org/) - Great Interactive Visualization for Word2Vec
+
+
+---
+
 ### Data Science Resources
 
 #### Book
