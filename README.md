@@ -138,6 +138,9 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 *[Recursive FEature Elimination](https://machinelearningmastery.com/rfe-feature-selection-in-python/) - An example
 *[SelectKBest](https://www.datatechnotes.com/2021/02/seleckbest-feature-selection-example-in-python.html)
 
+#### Outliers
+* [Interquartile Range Rule](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244) - IRQ Rule to detect outliers
+* 
 
 ---
 
@@ -181,9 +184,36 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 ### NLP
 
 * [Embedding Projector](https://projector.tensorflow.org/) - Great Interactive Visualization for Word2Vec
+* [VADER](https://medium.com/mlearning-ai/vader-valence-aware-dictionary-and-sentiment-reasoner-sentiment-analysis-28251536698) - VADER Example for Sentiment Analysis
+
+---
+
+### Naive Bayes
+
+* [Statquest Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA) - Watch the Gaussian NB after this.
+* [Statquest Gaussian NB](https://www.youtube.com/watch?v=H3EjCKtlVog)
+* [How NB Works](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/) - Example calculations, Laplace Correction (for missing value)
+* [NB Algorithm](https://www.analyticsvidhya.com/blog/2021/09/naive-bayes-algorithm-a-complete-guide-for-data-science-enthusiasts/) - Another website with worked examples
+
+---
+
+### SVM
+
+* [Statquest SVM](https://www.youtube.com/watch?v=efR1C6CvhmE) - First of 3 videos.
+* [Kernel Trick](https://drewwilimitis.github.io/The-Kernel-Trick/) - Nice graphs to demo kernel trick
+* [Kernel trick](https://medium.com/@zxr.nju/what-is-the-kernel-trick-why-is-it-important-98a98db0961d) - actual calculations for polynomial degree to to see reduction in calculations
+
+---
+
+### Pipelines and Model Deployment
+
+* [Sklearn Pipelines Example](https://medium.com/analytics-vidhya/machine-learning-models-to-production-part-1-build-your-own-sklearn-pipeline-e7aa7c06152a)
+* [Pipelines with MLflow](https://towardsdatascience.com/machine-learning-model-development-and-deployment-with-mlflow-and-scikit-learn-pipelines-f658c39e4d58)
+
 
 
 ---
+
 
 ### Data Science Resources
 
