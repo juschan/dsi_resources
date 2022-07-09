@@ -135,12 +135,12 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 #### Online Resources for Feature Selection
 
-*[Recursive FEature Elimination](https://machinelearningmastery.com/rfe-feature-selection-in-python/) - An example
-*[SelectKBest](https://www.datatechnotes.com/2021/02/seleckbest-feature-selection-example-in-python.html)
+* [Recursive FEature Elimination](https://machinelearningmastery.com/rfe-feature-selection-in-python/) - An example
+* [SelectKBest](https://www.datatechnotes.com/2021/02/seleckbest-feature-selection-example-in-python.html)
 
 #### Outliers
 * [Interquartile Range Rule](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244) - IRQ Rule to detect outliers
-* 
+
 
 ---
 
@@ -183,8 +183,12 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 ### NLP
 
-* [Embedding Projector](https://projector.tensorflow.org/) - Great Interactive Visualization for Word2Vec
 * [VADER](https://medium.com/mlearning-ai/vader-valence-aware-dictionary-and-sentiment-reasoner-sentiment-analysis-28251536698) - VADER Example for Sentiment Analysis
+* [Embedding Projector](https://projector.tensorflow.org/) - Great Interactive Visualization for Word2Vec
+* [Video on Word2Vec - Skipgram and CBOW](https://www.youtube.com/watch?v=UqRCEmrv1gQ) - Deeper understanding on the 2 methods for Word2Vec
+* [Pix2Story - Generate stories from pictures](https://azure.microsoft.com/en-in/blog/pix2story-neural-storyteller-which-creates-machine-generated-story-in-several-literature-genre/)
+* [Gensim code example, with Viz using PCA](https://web.stanford.edu/class/cs224n/materials/Gensim%20word%20vector%20visualization.html)
+* [Word Analogies (ie. Word Vectors)](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html)
 
 ---
 
@@ -194,6 +198,8 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Statquest Gaussian NB](https://www.youtube.com/watch?v=H3EjCKtlVog)
 * [How NB Works](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/) - Example calculations, Laplace Correction (for missing value)
 * [NB Algorithm](https://www.analyticsvidhya.com/blog/2021/09/naive-bayes-algorithm-a-complete-guide-for-data-science-enthusiasts/) - Another website with worked examples
+* [NB Classifier - Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) - Good example on Gaussian NB
+* [NB Example](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 
 ---
 
@@ -210,10 +216,29 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Sklearn Pipelines Example](https://medium.com/analytics-vidhya/machine-learning-models-to-production-part-1-build-your-own-sklearn-pipeline-e7aa7c06152a)
 * [Pipelines with MLflow](https://towardsdatascience.com/machine-learning-model-development-and-deployment-with-mlflow-and-scikit-learn-pipelines-f658c39e4d58)
 
+---
 
+### Cloud
+
+* [Microsoft Azure - Free training and exam for cloud/data/AI fundamentals](https://www.microsoft.com/en-sg/apac/digitalevent)
 
 ---
 
+### Websites with Data
+
+* [US Govt Data](https://www.data.gov/)
+* [US Census Data](https://www.census.gov/data.html)
+* [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+* [US Health Data](https://healthdata.gov/)
+* [AWS Open Data](https://registry.opendata.aws/)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [UCI ML Repo](http://archive.ics.uci.edu/ml/index.php)
+* [Data World](https://data.world/)
+* [Perma CC time series data](https://perma.cc/56Q5-YPNT)
+* [Data Portal](https://dataportals.org/)
+* [Kaggle](https://www.kaggle.com/)
+
+---
 
 ### Data Science Resources
 
