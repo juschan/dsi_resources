@@ -211,6 +211,56 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 ---
 
+### GLM
+
+* [CAS Monograph on GLM for Insurance](https://www.casact.org/sites/default/files/2021-01/05-Goldburd-Khare-Tevet.pdf)
+
+* [Deviance Statistics](https://www.clayford.net/statistics/comparing-multilevel-models-using-deviance-statistics-ch-4-of-alda/#:~:text=To%20use%20the%20Deviance%20Statistic,bigger%20model%20equal%20to%200.&text=Smaller%20Deviance%20is%20better.,may%20be%20a%20good%20thing.) - only suited for nested model comparisons
+
+
+---
+
+### Ensemble
+
+
+* [scikit-learn Ensemble Methods user guide](https://scikit-learn.org/stable/modules/ensemble.html#stacking) - take note of VotingClassifier and VotingRegressor to implement stacking.
+* [Hyperparameter tuning for VotingClassifier, GridsearchCV](https://stackoverflow.com/questions/46580199/hyperparameter-in-voting-classifier)
+* [Statquest - Adaboost](https://www.youtube.com/watch?v=LsK-xG1cLYA)
+* [Debiasing RF for Treatment Effect Estimation](https://www.youtube.com/watch?v=I3GNxTjJPWk)
+* [Statquest - Gradient Boost](https://www.youtube.com/watch?v=3CC4N4z3GJc) - Part 1 of 4
+
+---
+
+### Gradient Descent
+
+* [Video on Partial Differentiation and finding inflexion points](https://www.youtube.com/watch?v=mMCsFbAtDjk)
+* [Statquest -  Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+
+---
+
+### Clustering
+
+* [RealPython - K-Means Clustering](https://realpython.com/k-means-clustering-python/) - Good examples with elbow method and silhoutte method.
+* [K-means Clustering - interactive visualization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+* [Mail Customers Segmentations with k-Means](https://medium.com/@budisumandra/mall-customers-segmentation-with-k-means-clustering-algorithm-in-python-55ba10e4bbe3) - Business insights from post-clustering analysis
+* [Exploring Customers Segmentation With RFM Analysis and K-Means Clustering](https://medium.com/web-mining-is688-spring-2021/exploring-customers-segmentation-with-rfm-analysis-and-k-means-clustering-118f9ffcd9f0)
+
+---
+
+
+### Bayes Modelling
+- [Bayes Rules!](https://www.bayesrulesbook.com/) - Introductory online book on Bayes Modelling
+- - []()
+
+### NN and Deep Learning
+
+* [FastAI Practical Deep Learning Course](https://course.fast.ai/)
+* [Transformer Models - intro and catalog for 2022](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
+* [NN Loss Visualization](https://www.telesens.co/2019/01/16/neural-network-loss-visualization/)
+
+
+---
+
 ### Pipelines and Model Deployment
 
 * [Sklearn Pipelines Example](https://medium.com/analytics-vidhya/machine-learning-models-to-production-part-1-build-your-own-sklearn-pipeline-e7aa7c06152a)
@@ -256,9 +306,11 @@ Free to download. 2nd edition. Examples in R. More advanced book.
 * [Deep Learning Book](https://www.deeplearningbook.org/)
 Website has exercises and lecture notes. 
 
-- Chris Albon
-- Machine Learning Mastery
-- 
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/) - Classic Pandas book by the originator, Wes McKinney. Updated for Pandas 1.4, Python 3.10.
+
+- [Machine Learning Mastery](https://machinelearningmastery.com/) - Great resources!
+
+- [Chris Albon](https://chrisalbon.com/) - Another great resource website for data science, pandas etc. 
 
 
 
