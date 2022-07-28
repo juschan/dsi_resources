@@ -189,6 +189,9 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Pix2Story - Generate stories from pictures](https://azure.microsoft.com/en-in/blog/pix2story-neural-storyteller-which-creates-machine-generated-story-in-several-literature-genre/)
 * [Gensim code example, with Viz using PCA](https://web.stanford.edu/class/cs224n/materials/Gensim%20word%20vector%20visualization.html)
 * [Word Analogies (ie. Word Vectors)](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html)
+* [Pipeline example - Countvectorizer, TFIDF-Transformer, SGDClassifier](https://scikit-learn.org/stable/auto_examples/model_selection/grid_search_text_feature_extraction.html)
+* [Text Classification - FeatureUnion](https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html) - Complex pipeline example
+* [Text Classification Example](https://appliedsingularity.com/2022/02/01/nlp-tutorials-part-6-text-classification/) - Contains GLOVE/word embedding example in the later part.
 
 ---
 
@@ -208,6 +211,12 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Statquest SVM](https://www.youtube.com/watch?v=efR1C6CvhmE) - First of 3 videos.
 * [Kernel Trick](https://drewwilimitis.github.io/The-Kernel-Trick/) - Nice graphs to demo kernel trick
 * [Kernel trick](https://medium.com/@zxr.nju/what-is-the-kernel-trick-why-is-it-important-98a98db0961d) - actual calculations for polynomial degree to to see reduction in calculations
+
+---
+
+### Classification Metrics
+
+* [AUC-ROC example cdoe](https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/)
 
 ---
 
@@ -231,6 +240,15 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 ---
 
+### Feature Importance
+
+* [Scikit-Learn example](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html)
+* [Feature Importance Example](https://mljar.com/blog/feature-importance-in-random-forest/)
+* [scikit-learn permutation importance example](https://scikit-learn.org/stable/modules/permutation_importance.html#permutation-importance)
+* [Video explaining Permutation Importance](https://www.youtube.com/watch?v=VUvShOEFdQo) - Sebastian Raschka
+
+---
+
 ### Gradient Descent
 
 * [Video on Partial Differentiation and finding inflexion points](https://www.youtube.com/watch?v=mMCsFbAtDjk)
@@ -251,6 +269,7 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 ### Bayes Modelling
 - [Bayes Rules!](https://www.bayesrulesbook.com/) - Introductory online book on Bayes Modelling
 - - []()
+- 
 
 ### NN and Deep Learning
 
