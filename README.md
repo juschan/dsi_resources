@@ -237,6 +237,7 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Statquest - Adaboost](https://www.youtube.com/watch?v=LsK-xG1cLYA)
 * [Debiasing RF for Treatment Effect Estimation](https://www.youtube.com/watch?v=I3GNxTjJPWk)
 * [Statquest - Gradient Boost](https://www.youtube.com/watch?v=3CC4N4z3GJc) - Part 1 of 4
+* [Hyperparameter tuning of Random Forest Classifier](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74) - RandomSearchCV
 
 ---
 
@@ -265,6 +266,19 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 ---
 
+### PCA
+
+* [PCA](https://setosa.io/ev/principal-component-analysis/) - Interactive Viz
+* [PCA - Statquest](https://www.youtube.com/watch?v=FgakZw6K1QQ)
+
+
+### Time Series
+
+* [Forecasting: Principles and Practice Book - Time Series Components](https://otexts.com/fpp2/components.html) - Book on Forecasting and time series componants as example
+* [Times Series Decomposition](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/) - Additive and Multiplicative Example
+
+
+---
 
 ### Bayes Modelling
 - [Bayes Rules!](https://www.bayesrulesbook.com/) - Introductory online book on Bayes Modelling
@@ -341,6 +355,7 @@ Website has exercises and lecture notes.
 * [An Introduction to Git and Github](https://www.youtube.com/watch?v=MJUJ4wbFm_A) by Brian Yu  
 This introductory video by Brian provides an overview to Git and how it's used.
 
+* [Create Github Profile - Video](https://www.youtube.com/watch?v=Y1z7_GfEPiE)
 
 
 ### Todo
