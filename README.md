@@ -159,6 +159,11 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Intro to imbalanced data classification](https://machinelearningmastery.com/what-is-imbalanced-classification/)
 * [SMOTE for imbalanced data](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)
 
+#### Online Resources for Classification Model Evaluation
+
+* [Evaluating a Classification Model](https://www.ritchieng.com/machine-learning-evaluate-classification-model/) - Many steps are involved, but quite comprehensive
+
+* [Evaluate the Business Value of a Machine Learning Model](https://www.analyticsvidhya.com/blog/2021/09/how-to-evaluate-the-business-value-of-ml-model/) - Focus on Decile plots and lift plots
 
 ---
 
