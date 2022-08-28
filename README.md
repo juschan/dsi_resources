@@ -268,6 +268,7 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [K-means Clustering - interactive visualization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 * [Mail Customers Segmentations with k-Means](https://medium.com/@budisumandra/mall-customers-segmentation-with-k-means-clustering-algorithm-in-python-55ba10e4bbe3) - Business insights from post-clustering analysis
 * [Exploring Customers Segmentation With RFM Analysis and K-Means Clustering](https://medium.com/web-mining-is688-spring-2021/exploring-customers-segmentation-with-rfm-analysis-and-k-means-clustering-118f9ffcd9f0)
+* [K-means - great write-up and Viz](https://www.pinecone.io/learn/k-means-clustering/)
 
 ---
 
@@ -281,21 +282,56 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 * [Forecasting: Principles and Practice Book - Time Series Components](https://otexts.com/fpp2/components.html) - Book on Forecasting and time series componants as example
 * [Times Series Decomposition](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/) - Additive and Multiplicative Example
+* [Aric LaBarr - Time Series Videos](https://www.youtube.com/c/AricLaBarr/videos) - Great collection of short videos on Times Series. Start off with   [What is Time Series Data](https://www.youtube.com/watch?v=FsroWpkUuYI), then [What is Time Series Decomposition](https://www.youtube.com/watch?v=0ar9extHObg), then [What are AR Models](https://www.youtube.com/watch?v=Mc6sBAUdDP4), then [What are MA models](https://www.youtube.com/watch?v=zNLG8tsA_Go), then [What are ARIMA models](https://www.youtube.com/watch?v=dXND1OEBABI). 
+* [Statsmodel - SARIMAX documentation](https://www.statsmodels.org/stable/examples/notebooks/generated/statespace_sarimax_stata.html)
+* [SARIMAX example](https://analyticsindiamag.com/complete-guide-to-sarimax-in-python-for-time-series-modeling/#:~:text=SARIMAX-,SARIMAX(Seasonal%20Auto%2DRegressive%20Integrated%20Moving%20Average%20with%20eXogenous%20factors,average%20component%20in%20the%20model.) - good and simple example. End-to-end. 
+
+* [Intro to ACF, PACF](https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/) - ML Mastery
+* [PACF - PennState](https://online.stat.psu.edu/stat510/lesson/2/2.2)
+* [Identify order of ARIMA models - ACF/PACF](https://www.youtube.com/watch?v=ZE_WGBe0_VU&ab_channel=LasseEngboChristiansen)
+
+
+---
+
+### Graph/Network Models
+
+* [Enron Email](http://hci.stanford.edu/~jheer/projects/enron/v1/) - Great visualizations.
+
+---
+
+### Spatial Regression
+
+* [Spatial Regression](https://geographicdata.science/book/notebooks/11_regression.html) - Part of an online book, Geographic Data Science with Python
+* [Spatial Regression](http://darribas.org/gds_scipy16/ipynb_md/08_spatial_regression.html) - Geographic DS with PySAL library.
 
 
 ---
 
 ### Bayes Modelling
 - [Bayes Rules!](https://www.bayesrulesbook.com/) - Introductory online book on Bayes Modelling
-- - []()
-- 
+- [Bayesian Inference Framework - Video](https://www.youtube.com/watch?v=0w_4QcvBYII&ab_channel=MITOpenCourseWare)
+- [Decision Analysis - Posterior Probability Calcs](https://www.youtube.com/watch?v=FpKiHpYnY_I&ab_channel=JoshuaEmmanuel)
+- [Bayesian Stats Part 1 Video](https://www.youtube.com/watch?v=0F0QoMCSKJ4&ab_channel=StataCorpLLC)
+- [Bayesian Stats Part 2 Video](https://www.youtube.com/watch?v=OTO1DygELpY&ab_channel=StataCorpLLC)
 
 ### NN and Deep Learning
 
 * [FastAI Practical Deep Learning Course](https://course.fast.ai/)
 * [Transformer Models - intro and catalog for 2022](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
 * [NN Loss Visualization](https://www.telesens.co/2019/01/16/neural-network-loss-visualization/)
+* [Batch Sizing](https://stackoverflow.com/questions/63139072/batch-size-for-stochastic-gradient-descent-is-length-of-training-data-and-not-1#:~:text=batch_size%20is%20the%20size%20of,gradient%20from%20your%20entire%20dataset.) - Some queries and answer
+* [Intro to Mini-batch Grad Descent and how to configure Batch Size](https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/)
 
+* [NN Playground!](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.65170&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) - Google's tensorflow NN playground
+* [Video - Visual Intro to Neural Networks, Chap 1](https://www.youtube.com/watch?v=UOvPeC8WOt8). Chap 2 is also quite good!
+
+---
+
+### Computer Vision, Image Processing
+
+* [Object Detection YOLO v7](https://www.analyticsvidhya.com/blog/2022/08/how-to-train-a-custom-object-detection-model-with-yolov7/)
+* [Object Detection YOLO v5](https://www.analyticsvidhya.com/blog/2021/12/how-to-use-yolo-v5-object-detection-algorithm-for-custom-object-detection-an-example-use-case/)
+* [Semantic Segmentation](https://towardsdatascience.com/building-a-semantics-segmentation-computer-vision-algorithm-for-deployment-on-the-edge-3ad1a8922fd1)
 
 ---
 
@@ -303,6 +339,13 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 * [Sklearn Pipelines Example](https://medium.com/analytics-vidhya/machine-learning-models-to-production-part-1-build-your-own-sklearn-pipeline-e7aa7c06152a)
 * [Pipelines with MLflow](https://towardsdatascience.com/machine-learning-model-development-and-deployment-with-mlflow-and-scikit-learn-pipelines-f658c39e4d58)
+
+
+---
+
+### Transfer Learning/Pre-trained Models
+* [Tensorflow Hub](https://www.tensorflow.org/hub)
+
 
 ---
 
@@ -331,6 +374,9 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 ### Data Science Resources
 
 #### Book
+
+* [Machine Learning, Tom Mitchell ](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)
+
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
 Free. Great introduction to DS. Examples in R. Now in it's 2nd edition.
 
