@@ -316,6 +316,9 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 ### NN and Deep Learning
 
+* [Statquest - NN part 1](https://www.youtube.com/watch?v=CqOfi41LfDw&t=74s) - Then watch [Part 2 - on Backprop on output layer](https://www.youtube.com/watch?v=IN2XmBhILt4), then watch [Part 3 - Backprop to early layers](https://www.youtube.com/watch?v=iyn2zdALii8)
+
+
 * [FastAI Practical Deep Learning Course](https://course.fast.ai/)
 * [Transformer Models - intro and catalog for 2022](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
 * [NN Loss Visualization](https://www.telesens.co/2019/01/16/neural-network-loss-visualization/)
@@ -325,6 +328,15 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [NN Playground!](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.65170&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) - Google's tensorflow NN playground
 * [Video - Visual Intro to Neural Networks, Chap 1](https://www.youtube.com/watch?v=UOvPeC8WOt8). Chap 2 is also quite good!
 
+* [EarlyStopping - Patience Parameter](https://peltarion.com/knowledge-center/modeling-view/run-a-model/early-stopping)
+
+---
+
+### RNN
+
+* [Statquest - RNN](https://www.youtube.com/watch?v=AsNTP8Kwu80)
+
+
 ---
 
 ### Computer Vision, Image Processing
@@ -332,6 +344,7 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 * [Object Detection YOLO v7](https://www.analyticsvidhya.com/blog/2022/08/how-to-train-a-custom-object-detection-model-with-yolov7/)
 * [Object Detection YOLO v5](https://www.analyticsvidhya.com/blog/2021/12/how-to-use-yolo-v5-object-detection-algorithm-for-custom-object-detection-an-example-use-case/)
 * [Semantic Segmentation](https://towardsdatascience.com/building-a-semantics-segmentation-computer-vision-algorithm-for-deployment-on-the-edge-3ad1a8922fd1)
+* [Feature Visualization](https://distill.pub/2017/feature-visualization/) - Showing feature maps
 
 ---
 
