@@ -341,10 +341,19 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 ### Computer Vision, Image Processing
 
+#### Learn CNN in a series of links
+* [Image Kernels](https://setosa.io/ev/image-kernels/)
+* [Convolution](https://cs231n.github.io/convolutional-networks/#conv) - animation that shows convolution, and later architecture.
+* [Max-Pooling](https://computersciencewiki.org/index.php/Max-pooling_/_Pooling)
+* [Feature Maps/Activation Maps](https://www.tertiaryinfotech.com/feature-map-visualization-using-tensorflow-keras/)
+* [Video - How CNNs work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+
+
 * [Object Detection YOLO v7](https://www.analyticsvidhya.com/blog/2022/08/how-to-train-a-custom-object-detection-model-with-yolov7/)
 * [Object Detection YOLO v5](https://www.analyticsvidhya.com/blog/2021/12/how-to-use-yolo-v5-object-detection-algorithm-for-custom-object-detection-an-example-use-case/)
 * [Semantic Segmentation](https://towardsdatascience.com/building-a-semantics-segmentation-computer-vision-algorithm-for-deployment-on-the-edge-3ad1a8922fd1)
 * [Feature Visualization](https://distill.pub/2017/feature-visualization/) - Showing feature maps
+
 
 ---
 
@@ -352,7 +361,7 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 * [Sklearn Pipelines Example](https://medium.com/analytics-vidhya/machine-learning-models-to-production-part-1-build-your-own-sklearn-pipeline-e7aa7c06152a)
 * [Pipelines with MLflow](https://towardsdatascience.com/machine-learning-model-development-and-deployment-with-mlflow-and-scikit-learn-pipelines-f658c39e4d58)
-
+* [Deploying ML model using Flask on Heroku - Part 1](https://medium.com/analytics-vidhya/deploying-a-machine-learning-model-as-a-flask-app-on-heroku-part-1-b5e194fed16d), [Part 2](https://medium.com/analytics-vidhya/deploying-a-machine-learning-model-as-a-flask-app-on-heroku-part-2-9d8366eb784c)
 
 ---
 
@@ -365,6 +374,9 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 ### Cloud
 
 * [Microsoft Azure - Free training and exam for cloud/data/AI fundamentals](https://www.microsoft.com/en-sg/apac/digitalevent)
+
+* [Setup AWS to run Python (EC2 Instance, Private Keys, Putty, Filezilla](https://www.youtube.com/watch?v=BYvKv3kM9pk)
+
 
 ---
 
