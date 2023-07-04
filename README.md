@@ -70,7 +70,8 @@ Visualization/Interactive tools include
 
 #### Online Resources
 * [Chris Albon](https://chrisalbon.com/)  
-Great resource by Chris Albon (has EVERYTHING!). [Joining and merging Pandas dataframe](https://chrisalbon.com/code/python/data_wrangling/pandas_join_merge_dataframe/) is a favourite! 
+Great resource by Chris Albon (has EVERYTHING!). [Joining and merging Pandas dataframe](https://chrisalbon.com/code/python/data_wrangling/pandas_join_merge_dataframe/) is a favourite!  
+Unfortunately, the resources are moved. Refer to Internet Archive [here](https://web.archive.org/web/20211104151351/https://chrisalbon.com/code/python/data_wrangling/pandas_join_merge_dataframe/)
 
 * [Matplotlib](https://matplotlib.org/)  
 Matplotlib website contains examples, tutorials, cheat sheets, documentation and references for all things Matplotlib.
@@ -137,7 +138,7 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 
 * [Recursive FEature Elimination](https://machinelearningmastery.com/rfe-feature-selection-in-python/) - An example
 * [SelectKBest](https://www.datatechnotes.com/2021/02/seleckbest-feature-selection-example-in-python.html)
-
+* [Cyclic Encoding](https://towardsdatascience.com/cyclical-features-encoding-its-about-time-ce23581845ca)
 #### Outliers
 * [Interquartile Range Rule](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244) - IRQ Rule to detect outliers
 
@@ -147,7 +148,7 @@ Seaborn is another popular visualization tool. Site contains examples, Tutorial 
 ### Classification
 
 ### Online Resources for Logistic Regression
-* [Loss Function for Logistic Regression](https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11) - detailed and code exasmples.
+* [Loss Function for Logistic Regression](https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11) - detailed and code examples.
 
 
 #### Online Resources for Multiclass problems
@@ -419,8 +420,22 @@ Website has exercises and lecture notes.
 
 - [Machine Learning Mastery](https://machinelearningmastery.com/) - Great resources!
 
-- [Chris Albon](https://chrisalbon.com/) - Another great resource website for data science, pandas etc. 
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Great resource by Christoph Molnar if you're interested in things like SHAP. 
 
+- [Chris Albon](https://web.archive.org/web/20211101010750/https://chrisalbon.com/) - Another great resource website for data science, pandas etc. Link refers to Internet Archive
+
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - Free online book by Rob Hyndman and George Athanasopoulos. Examples in R.
+
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) - Classic by Christopher Bishop, back in 2006!
+
+- [Mathematics for Machine Learning](https://mml-book.github.io/) - Covers major mathematical requirements to get on with ML. 
+
+- [Links to even more ML books!](https://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mlbks.htm) - from some British University.
+
+---
+
+### Useful
+- [Stop Hard Coding in a Data Science Project — Use Config Files Instead](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f)
 
 
 ---
