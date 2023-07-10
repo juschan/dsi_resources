@@ -19,6 +19,10 @@ Find topics on [Errors and Exception Handling](https://realpython.com/python-exc
 Beginner book on Python covering a wide range of basic Python. Suitable for beginners to programming.  
 Allen Downey writes several books using Python. Check them out [here](https://greenteapress.com/wp/). Special mention of [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html), which is targetted at newbies to Python and Data Science. Good design and navigation.
 
+* [Sets in Python - Real Python](https://realpython.com/python-sets/#:~:text=Python%E2%80%99s%20built-in%20set%20type%20has%20the%20following%20characteristics%3A,the%20set%20must%20be%20of%20an%20immutable%20type.) - Good explanation and examples of sets in Python.
+
+
+
 ---
 
 ### Section 1B - Probability and Statistics
@@ -47,13 +51,15 @@ Great short videos explaining complex ideas.
   * [Bootstrapping](https://www.youtube.com/watch?v=Xz0x-8-cgaQ&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=24)
   * [Confidence Intervals](https://www.youtube.com/watch?v=TqOeMYtOc1w&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=23)
   * [Hypothesis Testing with SciPy - Hillary Green-Lerman](https://www.youtube.com/watch?v=dPXBN8ms-cU) - Great hands-on tutorial on the main hypothesis tests!
-
+  * [Convolutions | Why X+Y in probability is a beautiful mess](https://www.youtube.com/watch?v=IaSGqQa5O-M) - Great explanation on convolution as sum of Random Variables. 
 
 #### Additional Resources
 * Confidence Interval - [Margin of Errors](https://web.stat.tamu.edu/~suhasini/teaching301/stat301MoE.pdf), [The t-distribution](https://web.stat.tamu.edu/~suhasini/teaching301/stat301CI_t-dist.pdf)  
 From Texas A&M University. Some useful notes
 * [Interpreting Confidence Interval](https://rpsychologist.com/d3/ci/)  
 Insightful visualization
+* [Aproximating the cumulative distribution function of the normal distribution](http://jsr.isrt.ac.bd/wp-content/uploads/41n1_5.pdf) - Formulas to implement cumulative normal.
+* [Distribution Cheat Sheet](http://www.toomey.org/tutor/harolds_cheat_sheets/Harolds_Stats_Distributions_Cheat_Sheet_2022.pdf)
 
 ---
 
